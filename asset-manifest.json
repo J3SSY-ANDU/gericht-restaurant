@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gericht-restaurant/static/css/main.ff822d6b.css",
-    "main.js": "/gericht-restaurant/static/js/main.ef4021e6.js",
+    "main.js": "/gericht-restaurant/static/js/main.b485fc57.js",
     "static/media/meal.mp4": "/gericht-restaurant/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
     "static/media/bg.png": "/gericht-restaurant/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/welcome.png": "/gericht-restaurant/static/media/welcome.d724eb984456d9c97470.png",
@@ -11,6 +11,7 @@
     "static/media/menu.png": "/gericht-restaurant/static/media/menu.a8287c67809afebcc280.png",
     "static/media/gallery04.png": "/gericht-restaurant/static/media/gallery04.c36a695f8a3b9d311106.png",
     "static/media/gallery03.png": "/gericht-restaurant/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gericht.png": "/gericht-restaurant/static/media/gericht.da2854a23a0b0d27fdda.png",
     "static/media/gallery02.png": "/gericht-restaurant/static/media/gallery02.27663bd9016b72ccd328.png",
     "static/media/gallery01.png": "/gericht-restaurant/static/media/gallery01.f2cbffe3049d6f91e0df.png",
     "static/media/knife.png": "/gericht-restaurant/static/media/knife.1121c0a5afb62acb31cb.png",
@@ -25,10 +26,10 @@
     "index.html": "/gericht-restaurant/index.html",
     "static/media/spoon.svg": "/gericht-restaurant/static/media/spoon.b5681c867bb867d794693513d048401f.svg",
     "main.ff822d6b.css.map": "/gericht-restaurant/static/css/main.ff822d6b.css.map",
-    "main.ef4021e6.js.map": "/gericht-restaurant/static/js/main.ef4021e6.js.map"
+    "main.b485fc57.js.map": "/gericht-restaurant/static/js/main.b485fc57.js.map"
   },
   "entrypoints": [
     "static/css/main.ff822d6b.css",
-    "static/js/main.ef4021e6.js"
+    "static/js/main.b485fc57.js"
   ]
 }
