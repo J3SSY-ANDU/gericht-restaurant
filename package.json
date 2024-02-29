@@ -1,7 +1,7 @@
 {
-  "name": "gerich-restaurant",
+  "name": "gericht-restaurant",
   "version": "0.1.0",
-  "homepage": "https://J3SSY-ANDU.github.io/gerich-restaurant",
+  "homepage": "https://J3SSY-ANDU.github.io/gericht-restaurant",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
