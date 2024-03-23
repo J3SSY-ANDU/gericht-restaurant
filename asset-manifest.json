@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/gericht-restaurant/static/css/main.ff822d6b.css",
-    "main.js": "/gericht-restaurant/static/js/main.ef4021e6.js",
+    "main.css": "/gericht-restaurant/static/css/main.11050439.css",
+    "main.js": "/gericht-restaurant/static/js/main.1304bfbb.js",
     "static/media/meal.mp4": "/gericht-restaurant/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
-    "static/media/bg.png": "/gericht-restaurant/static/media/bg.3d421b1b5682e1b67deb.png",
-    "static/media/welcome.png": "/gericht-restaurant/static/media/welcome.d724eb984456d9c97470.png",
-    "static/media/findus.png": "/gericht-restaurant/static/media/findus.585c393ccd3671513743.png",
-    "static/media/laurels.png": "/gericht-restaurant/static/media/laurels.e760828692795d4aafd7.png",
-    "static/media/chef.png": "/gericht-restaurant/static/media/chef.02d6c5b61bfdc70303b4.png",
-    "static/media/menu.png": "/gericht-restaurant/static/media/menu.a8287c67809afebcc280.png",
-    "static/media/gallery04.png": "/gericht-restaurant/static/media/gallery04.c36a695f8a3b9d311106.png",
-    "static/media/gallery03.png": "/gericht-restaurant/static/media/gallery03.b2d50180e8590d4dd330.png",
-    "static/media/gallery02.png": "/gericht-restaurant/static/media/gallery02.27663bd9016b72ccd328.png",
-    "static/media/gallery01.png": "/gericht-restaurant/static/media/gallery01.f2cbffe3049d6f91e0df.png",
-    "static/media/knife.png": "/gericht-restaurant/static/media/knife.1121c0a5afb62acb31cb.png",
-    "static/media/overlaybg.png": "/gericht-restaurant/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/bg.png": "/gericht-restaurant/static/media/bg.baa45a636a6bebba17d6.png",
+    "static/media/welcome.png": "/gericht-restaurant/static/media/welcome.dbdf4b5536144dd3f0b6.png",
+    "static/media/laurels.png": "/gericht-restaurant/static/media/laurels.f99217b2a00a48d4784a.png",
+    "static/media/findus.png": "/gericht-restaurant/static/media/findus.b84b15e931a0a0f7c6e7.png",
+    "static/media/menu.png": "/gericht-restaurant/static/media/menu.e3af4c9941f12408c259.png",
+    "static/media/chef.png": "/gericht-restaurant/static/media/chef.ea9f3599d95adfab4af0.png",
+    "static/media/gallery03.png": "/gericht-restaurant/static/media/gallery03.e379968235776b94ce49.png",
+    "static/media/gallery04.png": "/gericht-restaurant/static/media/gallery04.41c650a31b0999d45fba.png",
+    "static/media/gallery02.png": "/gericht-restaurant/static/media/gallery02.6e28aab341a63fe2476f.png",
+    "static/media/knife.png": "/gericht-restaurant/static/media/knife.40c3c78e7e4fd13fa547.png",
+    "static/media/gallery01.png": "/gericht-restaurant/static/media/gallery01.79aea821dd9150076c06.png",
     "static/media/G.png": "/gericht-restaurant/static/media/G.b571eb82e589ec305ec9.png",
     "static/media/logo.png": "/gericht-restaurant/static/media/logo.0286194c03de0a90dac9.png",
     "static/media/award02.png": "/gericht-restaurant/static/media/award02.8bbdd51499739653b003.png",
@@ -24,11 +23,11 @@
     "static/media/sign.png": "/gericht-restaurant/static/media/sign.9bf0bd90ad4caa17991f.png",
     "index.html": "/gericht-restaurant/index.html",
     "static/media/spoon.svg": "/gericht-restaurant/static/media/spoon.b5681c867bb867d794693513d048401f.svg",
-    "main.ff822d6b.css.map": "/gericht-restaurant/static/css/main.ff822d6b.css.map",
-    "main.ef4021e6.js.map": "/gericht-restaurant/static/js/main.ef4021e6.js.map"
+    "main.11050439.css.map": "/gericht-restaurant/static/css/main.11050439.css.map",
+    "main.1304bfbb.js.map": "/gericht-restaurant/static/js/main.1304bfbb.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff822d6b.css",
-    "static/js/main.ef4021e6.js"
+    "static/css/main.11050439.css",
+    "static/js/main.1304bfbb.js"
   ]
 }
