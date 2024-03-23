@@ -8,7 +8,6 @@ import gallery04 from '../assets/gallery04.png';
 import knife from '../assets/knife.png';
 import logo from '../assets/logo.png';
 import menu from '../assets/menu.png';
-import overlaybg from '../assets/overlaybg.png';
 import spoon from '../assets/spoon.svg';
 import welcome from '../assets/welcome.png';
 import findus from '../assets/findus.png';
@@ -19,7 +18,7 @@ import award03 from '../assets/award03.png';
 import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
-import gericht from '../assets/gericht.png';
+import gericht from '../assets/gericht-logo.png';
 
 export default {
   bg,
@@ -32,7 +31,6 @@ export default {
   knife,
   logo,
   menu,
-  overlaybg,
   spoon,
   welcome,
   findus,
@@ -43,5 +41,5 @@ export default {
   award05,
   sign,
   quote,
-  gericht,
+  gericht
 };
