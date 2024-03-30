@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import { images } from '../../constants';
 import './Header.css';
 import { SubHeading } from '../../components';
