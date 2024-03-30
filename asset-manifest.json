@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gericht-restaurant/static/css/main.11050439.css",
-    "main.js": "/gericht-restaurant/static/js/main.eeda2e4a.js",
+    "main.js": "/gericht-restaurant/static/js/main.fae931c2.js",
     "static/media/meal.mp4": "/gericht-restaurant/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
     "static/media/bg.png": "/gericht-restaurant/static/media/bg.baa45a636a6bebba17d6.png",
     "static/media/welcome.png": "/gericht-restaurant/static/media/welcome.dbdf4b5536144dd3f0b6.png",
@@ -24,10 +24,10 @@
     "index.html": "/gericht-restaurant/index.html",
     "static/media/spoon.svg": "/gericht-restaurant/static/media/spoon.b5681c867bb867d794693513d048401f.svg",
     "main.11050439.css.map": "/gericht-restaurant/static/css/main.11050439.css.map",
-    "main.eeda2e4a.js.map": "/gericht-restaurant/static/js/main.eeda2e4a.js.map"
+    "main.fae931c2.js.map": "/gericht-restaurant/static/js/main.fae931c2.js.map"
   },
   "entrypoints": [
     "static/css/main.11050439.css",
-    "static/js/main.eeda2e4a.js"
+    "static/js/main.fae931c2.js"
   ]
 }
